@@ -11,8 +11,6 @@ MinimumPercentageDifference = 5
 TimeBeforeStart = 2
 TimeoutLimit = 10000
 TakeScreenShotinEvery__Seconds = 3
-apiToken = '6372182118:AAEmyyrlHm8igUnYQkbAZh27o3oO2tUS6bI'
-chatID = '5653362497'
 
 def send_to_telegram(message):
     apiURL = f'https://api.telegram.org/bot{apiToken}/sendMessage'
