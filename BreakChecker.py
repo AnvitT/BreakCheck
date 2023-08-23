@@ -6,6 +6,8 @@ import sys
 import time
 import pyautogui
 
+# apiToken = <****>
+# chatID = <****>
 
 MinimumPercentageDifference = 5
 TimeBeforeStart = 2
